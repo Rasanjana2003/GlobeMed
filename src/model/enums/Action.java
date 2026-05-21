@@ -1,0 +1,12 @@
+package model.enums;
+
+public enum Action {
+    VIEW_PATIENT_BASIC,
+    VIEW_PATIENT_SENSITIVE,
+    VIEW_PATIENT_LIST,
+    UPDATE_PATIENT,
+    DELETE_PATIENT,
+    MANAGE_BILLING,
+    MANAGE_CLAIMS,
+    MANAGE_USERS
+}
